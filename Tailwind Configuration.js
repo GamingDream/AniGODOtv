@@ -1,4 +1,3 @@
-// tailwind.config.js
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
@@ -36,7 +35,6 @@ export default {
         'glow': 'glow 2s ease-in-out infinite',
         'fade-in': 'fadeIn 0.5s ease-out',
         'slide-up': 'slideUp 0.5s ease-out',
-        'pulse-slow': 'pulse 3s ease-in-out infinite',
       },
       keyframes: {
         glow: {
